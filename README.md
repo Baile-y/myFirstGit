@@ -1,4 +1,4 @@
-Project Title
+<b>Project Title</b><br>
 myFirstGit
 
 Project Description
