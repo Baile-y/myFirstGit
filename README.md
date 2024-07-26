@@ -1,4 +1,4 @@
-<h2>myFirstGit/h2><br>
+<h2>myFirstGit</h2><br>
 <h4>Project Description</h4>
 <p>myFirstGit is a simple Node.js project that serves as an introduction to using GitHub for version control. 
 <br>This project prints "hello world" to the console.</p>
